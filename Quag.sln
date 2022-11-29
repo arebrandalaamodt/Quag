@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quag", "Quag\Quag.vcxproj", "{91BD6289-3F9A-4788-AD5A-6BA99177A04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Debug|x64.ActiveCfg = Debug|x64
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Debug|x64.Build.0 = Debug|x64
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Debug|x86.ActiveCfg = Debug|Win32
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Debug|x86.Build.0 = Debug|Win32
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Release|x64.ActiveCfg = Release|x64
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Release|x64.Build.0 = Release|x64
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Release|x86.ActiveCfg = Release|Win32
+		{91BD6289-3F9A-4788-AD5A-6BA99177A04C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0410BB-56C3-44D6-A866-BE6E11BFBB35}
+	EndGlobalSection
+EndGlobal
