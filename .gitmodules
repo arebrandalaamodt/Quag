@@ -1,0 +1,3 @@
+[submodule "Quag/vendor/spdlog"]
+	path = Quag/vendor/spdlog
+	url = https://github.com/gabime/spdlog
